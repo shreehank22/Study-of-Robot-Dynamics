@@ -10,4 +10,4 @@ P4 — Trajectory Planning with Dynamics
 P5 — Vision-Based Control
 
 ## Setup
-Will be updated
+execute setup.sh to initialize a conda environment and install the dependencies.
